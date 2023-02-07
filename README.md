@@ -1,9 +1,9 @@
 # Neighborhood-Clustering
 
 ## Introduction
-This project consists of a clustering of all neighborhoods in Spain based on the following demographic information:
+This project consists of a clustering of all neighborhoods in Spain based on the following demographic information per neighborhood (postalcode):
 
-* Neighborhood population.
+* Population.
 * Mean age.
 * Percentage of foreign residents.
 * Average salary.
