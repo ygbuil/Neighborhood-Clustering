@@ -21,6 +21,6 @@ The final clusters can be observed in the following plots. From the pairplots it
 ![alt_text](https://github.com/ygbuil/Neighborhood-Clustering/blob/master/images/train_clusters.png)
 ![alt_text](https://github.com/ygbuil/Neighborhood-Clustering/blob/master/images/test_clusters.png)
 
-Finally, from the parallel lines plot of the cluster centers, the central tendency of each cluster can be observed, and some interesting conclusions can be extrated, such as that the high populated neighborhoods are populated by people of younger age and the salaries are higher in those regions.
+Finally, from the parallel lines plot of the cluster centers, the central tendency of each cluster can be observed. From here, some interesting conclusions can be extracted, such as that the high populated neighborhoods are populated by people of younger age and the salaries are higher in those regions.
 
 ![alt_text](https://github.com/ygbuil/Neighborhood-Clustering/blob/master/images/center_clusters.png)
