@@ -2,10 +2,12 @@
 
 ## Introduction
 This project consists of a clustering of all neighborhoods in Spain based on the following demographic information:
+
 * Neighborhood population.
 * Mean age.
 * Percentage of foreign residents.
 * Average salary.
+
 Disclaimer: Postcodes have been anonimized with an incremental integer.
 
 ## Algorithm
