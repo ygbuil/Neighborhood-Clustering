@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 
 # root path
-path = Path('C:/Users/llorenc.buil/Documents/github/Neighborhood-Clustering')
+path = Path('C:/Users/llorenc.buil/github/Neighborhood-Clustering')
 os.chdir(path)
 if path not in sys.path:
     sys.path.append(path)
@@ -58,4 +58,5 @@ def main(c):
     return results_train, results_test, cluster_centers
 
 
-results_train, results_test, cluster_centers = main(c=c)
+if __name__ == '__main__':
+    results_train, results_test, cluster_centers = main(c=c)
